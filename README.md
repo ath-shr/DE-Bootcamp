@@ -8,4 +8,5 @@ Index:
   - Data transformation
   - Cloud Fundamentals/ Cloud-Based data platform
 - Case Study: Scenarios based on concepts leared in respective modules.
-  
+
+
