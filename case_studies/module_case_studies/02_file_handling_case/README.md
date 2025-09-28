@@ -22,7 +22,7 @@ Both CSV and JSON files will have the same schema. CSV file is Full load and JSO
 - sale_date: Date of sale
 
 TASK 1: Create Sample Data Files
-- Create the sample data with existing notebook.
+- Create the sample data with existing notebook. (_generate_sales_data.ipynb)
 - sales_full.csv (complete dataset)
 - sales_new.json (new transactions only)
 - Both files have same schema for easy merging
