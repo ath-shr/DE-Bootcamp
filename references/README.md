@@ -33,3 +33,4 @@
 ### Also checkout
 - [Complete-Python-3-Bootcamp](https://cocalc.com/github/Pierian-Data/Complete-Python-3-Bootcamp)
 - [object-oriented-programming-python](https://github.com/topics/object-oriented-programming-python)
+- [The Data Engineer’s Vocabulary](https://medium.com/art-of-data-engineering/the-data-engineers-vocabulary-8db9236c592e)
